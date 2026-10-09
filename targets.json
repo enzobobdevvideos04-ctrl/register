@@ -12,5 +12,6 @@
     "*.alwaysdata.net"
   ],
   "custom": [
-  "toolcl.cloudaccessfoundation.org"
-]
+    "toolcl.cloudaccessfoundation.org"
+  ]
+}
